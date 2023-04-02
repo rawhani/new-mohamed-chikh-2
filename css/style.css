@@ -156,7 +156,7 @@ body {
   background-image: url(../images/chikh.jpg);
   filter: grayscale(20%);
   background-size: cover;
-  height: calc(100vh - 640px);
+  height: calc(100vh - 64px);
   position: relative;
 
 }
